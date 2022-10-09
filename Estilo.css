@@ -1,0 +1,25 @@
+body{
+width: 95%;
+max-width: 800px;
+text-align: center;
+margin:auto;
+background:url("fundo.jpeg") center;
+font-family:"lato";
+line-height: 1.5;
+color: white;
+}
+
+main{
+background: #00000052;
+padding: 5px 40px;
+margin-top: 20px;
+border-radius: 10px;
+}
+
+.Agenda table{
+	background: #cb3a3ab3;
+	padding: 10px;  /* distância entre o conteúdo e as bordas*/
+	border-radius: 10px;  
+	margin: 0 auto; /* margin usando auto para alinhar a tabela ao centro*/
+	
+}
